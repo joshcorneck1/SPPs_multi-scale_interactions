@@ -1,2 +1,2 @@
 # SPPs_multi-scale_interactions
-This repository contains the code for my MSc thesis "Replicating bivariate point patterns that display both aggregation and segregation". All code here is in R, and heavily utlises the package spatstat.
+This repository contains the code for my MSc thesis "Replicating bivariate point patterns that display both aggregation and segregation". All code here is in R, and heavily utlises the package spatstat. The code here is for the pilot and ABC runs in the case of a Strauss process, the simple model and the general model, and there is also code for analysising the pilot runs.
